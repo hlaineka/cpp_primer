@@ -1,4 +1,10 @@
 //Exercise 2.3: What output will the following code produce?
+//32
+//4294967264
+//32
+//-32
+//0
+//0
 //Exercise  2.4:  Write  a  program  to  check  whether  your 
 //predictions  werecorrect. If not, study this section until
 //you understand what the problem is.
