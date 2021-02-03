@@ -1,4 +1,4 @@
-//Exercise 2.13: What is the value of j in the following program?
+//Exercise 2.13: What is the value of j in the following program? 100
 //Exercise  2.14:  Is  the  following  program  legal?  If  so,  
 //what  values  are printed?
 
