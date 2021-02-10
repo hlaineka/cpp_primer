@@ -1,6 +1,9 @@
 //Exercise  7.3:Revise your transaction-processing program from §7.1.1(p.
 //256) to use these members.
 
+//ex 7.4. and 7.5. in person.h 
+//ex 7.6 in sales_data.h
+
 // test values:
 /*
 0-201-78345-X 3 20.00

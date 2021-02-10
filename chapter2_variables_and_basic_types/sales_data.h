@@ -1,3 +1,5 @@
+//g++ -std=c++11 should be used to compile with data member initialization
+
 #ifndef SALES_DATA_H
 #define SALES_DATA_H
 #include <string>
